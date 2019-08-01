@@ -1,0 +1,5 @@
+set -tmpdir "D:/Goutam_Debnath_Xilinx/Class_asgn/ud_counter/xst/projnav.tmp"
+set -xsthdpdir "D:/Goutam_Debnath_Xilinx/Class_asgn/ud_counter/xst"
+elaborate
+-ifn UD_COUNTER.prj
+-ifmt mixed

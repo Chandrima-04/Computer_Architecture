@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/Class_asgn/ud_counter/UD_COUNTER_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/Class_asgn/ud_counter/UD_COUNTER_TB_beh.prj" "work.UD_COUNTER_TB" 

@@ -1,0 +1,2 @@
+vhdl isim_temp "UD_COUNTER.vhd"
+vhdl isim_temp "UD_COUNTER_TB.vhd"
