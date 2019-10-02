@@ -1,0 +1,5 @@
+set -tmpdir "D:/Goutam_Debnath_Xilinx/jk_flip_flop/xst/projnav.tmp"
+set -xsthdpdir "D:/Goutam_Debnath_Xilinx/jk_flip_flop/xst"
+elaborate
+-ifn JKFF.prj
+-ifmt mixed
