@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/full_adder/F_ADDER_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/full_adder/F_ADDER_TB_beh.prj" "work.F_ADDER_TB" 

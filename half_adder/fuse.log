@@ -1,0 +1,21 @@
+Running: d:\Xilinx\13.1\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Goutam_Debnath_Xilinx/half_adder/H_ADDER_TB_isim_beh.exe -prj D:/Goutam_Debnath_Xilinx/half_adder/H_ADDER_TB_beh.prj work.H_ADDER_TB 
+ISim O.40d (signature 0x79f3f3a8)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/half_adder/H_ADDER.vhd" into library work
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/half_adder/H_ADDER_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95708 KB
+Fuse CPU Usage: 124 ms
+Using precompiled package standard from library std
+Using precompiled package std_logic_1164 from library ieee
+Compiling architecture behavioral of entity h_adder [h_adder_default]
+Compiling architecture behavior of entity h_adder_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable D:/Goutam_Debnath_Xilinx/half_adder/H_ADDER_TB_isim_beh.exe
+Fuse Memory Usage: 101452 KB
+Fuse CPU Usage: 140 ms
