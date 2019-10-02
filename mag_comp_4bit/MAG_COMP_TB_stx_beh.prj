@@ -1,0 +1,2 @@
+vhdl isim_temp "MAG_COMP.vhd"
+vhdl isim_temp "MAG_COMP_TB.vhd"

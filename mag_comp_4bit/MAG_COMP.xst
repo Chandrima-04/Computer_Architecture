@@ -1,0 +1,5 @@
+set -tmpdir "D:/Goutam_Debnath_Xilinx/mag_comp_4bit/xst/projnav.tmp"
+set -xsthdpdir "D:/Goutam_Debnath_Xilinx/mag_comp_4bit/xst"
+elaborate
+-ifn MAG_COMP.prj
+-ifmt mixed
