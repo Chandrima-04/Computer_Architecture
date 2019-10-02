@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Goutam_Debnath_Xilinx/t_flip_flop/T_F_F.xst" -ofn "D:/Goutam_Debnath_Xilinx/t_flip_flop/T_F_F.syr" 

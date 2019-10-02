@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/t_flip_flop/TFF_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/t_flip_flop/TFF_TB_beh.prj" "work.TFF_TB" 
