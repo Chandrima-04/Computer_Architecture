@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/mag_comp_1bit/MAG_COMP_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/mag_comp_1bit/MAG_COMP_TB_beh.prj" "work.MAG_COMP_TB" 
