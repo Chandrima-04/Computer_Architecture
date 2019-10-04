@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/SAIKAT/Desktop/Class_asgn/f_adder_struct/F_ADDER_TB_isim_beh.exe" -prj "C:/Users/SAIKAT/Desktop/Class_asgn/f_adder_struct/F_ADDER_TB_beh.prj" "work.F_ADDER_TB" 

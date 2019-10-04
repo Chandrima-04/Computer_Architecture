@@ -1,0 +1,5 @@
+set -tmpdir "D:/Goutam_Debnath_Xilinx/f_adder_struct/xst/projnav.tmp"
+set -xsthdpdir "D:/Goutam_Debnath_Xilinx/f_adder_struct/xst"
+elaborate
+-ifn F_ADDER.prj
+-ifmt mixed
