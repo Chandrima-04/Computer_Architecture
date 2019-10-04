@@ -1,0 +1,2 @@
+vhdl isim_temp "XNOR_GATE.vhd"
+vhdl isim_temp "XNOR_TB.vhd"

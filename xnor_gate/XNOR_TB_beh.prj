@@ -1,0 +1,2 @@
+vhdl work "XNOR_GATE.vhd"
+vhdl work "XNOR_TB.vhd"
