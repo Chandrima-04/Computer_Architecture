@@ -1,0 +1,2 @@
+vhdl isim_temp "NOT_GATE.vhd"
+vhdl isim_temp "NOT_TB.vhd"

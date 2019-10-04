@@ -1,0 +1,2 @@
+vhdl isim_temp "OR_GATE.vhd"
+vhdl isim_temp "OR_TB.vhd"

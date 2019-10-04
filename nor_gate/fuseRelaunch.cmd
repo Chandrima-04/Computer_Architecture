@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/Class_asgn/nor_gate/NOR_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/Class_asgn/nor_gate/NOR_TB_beh.prj" "work.NOR_TB" 

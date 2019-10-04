@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/Class_asgn/or_gate/OR_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/Class_asgn/or_gate/OR_TB_beh.prj" "work.OR_TB" 

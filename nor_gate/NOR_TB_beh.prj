@@ -1,0 +1,2 @@
+vhdl work "NOR_GATE.vhd"
+vhdl work "NOR_TB.vhd"
