@@ -1,0 +1,28 @@
+Command line:
+   BPA_STR_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  65056
+
+Thu Mar 26 15:51:39 2015
+
+
+ Elaboration Time: 0.078001 sec
+
+ Current Memory Usage: 506.057 Meg
+
+ Total Signals          : 30
+ Total Nets             : 17
+ Total Signal Drivers   : 10
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 5
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 377
+
+ Total Simulation Time: 0.078001 sec
+
+ Current Memory Usage: 506.057 Meg
+
+Thu Mar 26 15:52:11 2015
+
