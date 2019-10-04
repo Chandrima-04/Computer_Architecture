@@ -1,0 +1,38 @@
+Release 14.5 - xst P.58f (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.52 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.53 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_GATE.vhd" in Library work.
+Entity <AND_GATE> compiled.
+Entity <AND_GATE> (Architecture <AND_ARCH>) compiled.
+Compiling vhdl file "C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_TB.vhd" in Library work.
+Entity <AND_TB> compiled.
+ERROR:HDLParsers:1015 - "C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_TB.vhd" Line 85. Wait for statement unsupported.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.72 secs
+ 
+--> 
+
+Total memory usage is 210448 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

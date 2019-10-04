@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/xst"
+elaborate
+-ifn AND_TB.prj
+-ifmt mixed

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/Class_asgn/nand_gate/NAND_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/Class_asgn/nand_gate/NAND_TB_beh.prj" "work.NAND_TB" 

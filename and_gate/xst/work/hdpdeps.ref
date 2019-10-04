@@ -1,0 +1,14 @@
+V3 7
+FL C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_GATE.vhd 2015/03/25.11:38:20 P.58f
+EN work/AND_GATE 1427263705 \
+      FL C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_GATE.vhd \
+      PB ieee/std_logic_1164 1364358218
+AR work/AND_GATE/AND_ARCH 1427263706 \
+      FL C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_GATE.vhd \
+      EN work/AND_GATE 1427263705
+FL C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_TB.vhd 2015/03/08.12:17:22 P.58f
+EN work/AND_TB 0 FL C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_TB.vhd \
+      PB ieee/std_logic_1164 1364358218
+AR work/AND_TB/AND_ARCH 0 \
+      FL C:/Users/SAIKAT/Desktop/Class_asgn/Asgn1/and_gate/AND_TB.vhd \
+      EN work/AND_TB 0 CP AND_GATE

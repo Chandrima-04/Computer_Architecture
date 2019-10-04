@@ -1,0 +1,2 @@
+vhdl isim_temp "NAND_GATE.vhd"
+vhdl isim_temp "NAND_TB.vhd"
