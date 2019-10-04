@@ -1,0 +1,27 @@
+Running: d:\Xilinx\13.1\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_str/BCD_ADDER_TB_isim_beh.exe -prj D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_str/BCD_ADDER_TB_beh.prj work.BCD_ADDER_TB 
+ISim O.40d (signature 0x79f3f3a8)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_str/F_ADDER.vhd" into library work
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_str/BPA_STR.vhd" into library work
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_str/BCD_ADDER.vhd" into library work
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_str/BCD_ADDER_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96348 KB
+Fuse CPU Usage: 139 ms
+Using precompiled package standard from library std
+Using precompiled package std_logic_1164 from library ieee
+Using precompiled package std_logic_arith from library ieee
+Using precompiled package std_logic_unsigned from library ieee
+Compiling architecture f_adder_tb of entity f_adder [f_adder_default]
+Compiling architecture behavioral of entity bpa_str [bpa_str_default]
+Compiling architecture behavioral of entity bcd_adder [bcd_adder_default]
+Compiling architecture behavior of entity bcd_adder_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 VHDL Units
+Built simulation executable D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_str/BCD_ADDER_TB_isim_beh.exe
+Fuse Memory Usage: 102092 KB
+Fuse CPU Usage: 171 ms

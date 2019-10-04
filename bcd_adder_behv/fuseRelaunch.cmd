@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_behv/BCD_ADDER_BEHV_TB_isim_beh.exe" -prj "D:/Goutam_Debnath_Xilinx/Class_asgn/bcd_adder_behv/BCD_ADDER_BEHV_TB_beh.prj" "work.BCD_ADDER_BEHV_TB" 

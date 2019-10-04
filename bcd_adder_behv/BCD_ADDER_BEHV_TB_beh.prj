@@ -1,0 +1,2 @@
+vhdl work "BCD_ADDER.vhd"
+vhdl work "BCD_ADDER_BEHV_TB.vhd"
