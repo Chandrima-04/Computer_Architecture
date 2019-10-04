@@ -1,0 +1,2 @@
+vhdl work "DECADE_COUNTER.vhd"
+vhdl work "DECADE_COUNTER_TB.vhd"

@@ -1,0 +1,24 @@
+Running: d:\Xilinx\13.1\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Goutam_Debnath_Xilinx/Class_asgn/decade_counter/DECADE_COUNTER_TB_isim_beh.exe -prj D:/Goutam_Debnath_Xilinx/Class_asgn/decade_counter/DECADE_COUNTER_TB_beh.prj work.DECADE_COUNTER_TB 
+ISim O.40d (signature 0x79f3f3a8)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/Class_asgn/decade_counter/DECADE_COUNTER.vhd" into library work
+Parsing VHDL file "D:/Goutam_Debnath_Xilinx/Class_asgn/decade_counter/DECADE_COUNTER_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 97372 KB
+Fuse CPU Usage: 171 ms
+Using precompiled package standard from library std
+Using precompiled package std_logic_1164 from library ieee
+Using precompiled package std_logic_arith from library ieee
+Using precompiled package std_logic_unsigned from library ieee
+Using precompiled package numeric_std from library ieee
+Compiling architecture behavioral of entity decade_counter [decade_counter_default]
+Compiling architecture behavior of entity decade_counter_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 VHDL Units
+Built simulation executable D:/Goutam_Debnath_Xilinx/Class_asgn/decade_counter/DECADE_COUNTER_TB_isim_beh.exe
+Fuse Memory Usage: 103116 KB
+Fuse CPU Usage: 187 ms

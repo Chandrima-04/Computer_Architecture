@@ -1,0 +1,5 @@
+set -tmpdir "D:/Goutam_Debnath_Xilinx/Class_asgn/decade_counter/xst/projnav.tmp"
+set -xsthdpdir "D:/Goutam_Debnath_Xilinx/Class_asgn/decade_counter/xst"
+elaborate
+-ifn DECADE_COUNTER.prj
+-ifmt mixed
